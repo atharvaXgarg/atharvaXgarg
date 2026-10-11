@@ -53,7 +53,7 @@ AI Tools:
 - Tech: HTML5, CSS3, JavaScript  
 - Highlights: Responsive design, high-fidelity UI, product listing and filtering UI  
 - Link: [Myntra Clone — Demo](https://atharvaXgarg.github.io/Myntra-clone-1/)
-- Repo: [github.com/Atharva-Garg16/Myntra-clone-1](https://github.com/atharvaXgarg/Myntra-clone-1)
+- Repo: [github.com/atharvaXgarg/Myntra-clone-1](https://github.com/atharvaXgarg/Myntra-clone-1)
 
 ### Calculator App
 - Role: Frontend Developer  
