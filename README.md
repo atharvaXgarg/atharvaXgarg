@@ -5,7 +5,7 @@ Building practical web projects and learning full-stack engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-garg/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagarg1610@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Atharva-Garg16?style=social)](https://github.com/Atharva-Garg16)
+[![GitHub followers](https://img.shields.io/github/followers/atharvaXgarg?style=social)](https://github.com/atharvaXgarg)
 
 ---
 
@@ -52,20 +52,20 @@ AI Tools:
 - Role: Frontend Developer  
 - Tech: HTML5, CSS3, JavaScript  
 - Highlights: Responsive design, high-fidelity UI, product listing and filtering UI  
-- Link: [Myntra Clone — Demo](https://atharva-garg16.github.io/Myntra-clone-1/)
-- Repo: [github.com/Atharva-Garg16/Myntra-clone-1](https://github.com/Atharva-Garg16/Myntra-clone-1)
+- Link: [Myntra Clone — Demo](https://atharvaXgarg.github.io/Myntra-clone-1/)
+- Repo: [github.com/Atharva-Garg16/Myntra-clone-1](https://github.com/atharvaXgarg/Myntra-clone-1)
 
 ### Calculator App
 - Role: Frontend Developer  
 - Tech: JavaScript (logic separated from UI), HTML/CSS  
 - Highlights: Decoupled architecture — UI and core operations separated for testability  
-- Link: [Calculator-Demo](https://atharva-garg16.github.io/Calculator/)
-- Repo: [github.com/Atharva-Garg16/Calculator](https://github.com/Atharva-Garg16/calculator)
+- Link: [Calculator-Demo](https://atharvaXgarg.github.io/Calculator/)
+- Repo: [github.com/atharvaXgarg/Calculator](https://github.com/atharvaXgarg/calculator)
 
 ---
 
 ## Achievements
-- 💻 LeetCode: 250+ problems — [Profile](https://leetcode.com/u/AtharvaGarg/)  
+- 💻 LeetCode: 250+ problems — [Profile](https://leetcode.com/u/AtharvaGarg16/)  
 - 🏆 200 days problem-solving badge on LeetCode (2026)  
 - 🎖️ Smart India Hackathon (SIH) 2025 — College Level Selection  
 - 📜 HackerRank: Certificates in Java (Basics), Python (Basics), and Problem Solving
@@ -85,7 +85,7 @@ AI Tools:
 ## Contact
 - 📧 Email: atharvagarg1610@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/atharva-garg/  
-- 💻 GitHub: https://github.com/Atharva-Garg16
+- 💻 GitHub: https://github.com/atharvaXgarg
 - 🫱🏻‍🫲🏻Open to internships, collaborations, and project opportunities — reach me at [Email](mailto:atharvagarg1610@gmail.com) or [LinkedIn](https://linkedin.com/in/atharva-garg/).
 
 ---
@@ -108,17 +108,17 @@ AI Tools:
  
   <p align="center">
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=atharvaXgarg&layout=compact&theme=dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharva-Garg16&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=atharvaXgarg&theme=dark&hide_border=true"/>
 </p>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharva-Garg16/Atharva-Garg16/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharva-Garg16/Atharva-Garg16/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvaXgarg/atharvaXgarg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvaXgarg/atharvaXgarg6/output/github-contribution-grid-snake.svg">
 
 </picture>
 </p>
