@@ -1,6 +1,7 @@
-# Hi there, I'm Atharva Garg 👋
+# Hi there, I'm [Atharva Garg](https://atharvagarg.live) 👋
 
 **Software developer • Student (B.Tech CSE)**  
+
 Building practical web projects and learning full-stack engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-garg/)
