@@ -1,10 +1,11 @@
-# Hi there, I'm [Atharva Garg](https://atharvagarg.live) 👋
+# Hi there, I'm Atharva Garg 👋
 
 **Software developer • Student (B.Tech CSE)**  
 
 Building practical web projects and learning full-stack engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-garg/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://atharvagarg.live/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagarg1610@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/atharvaXgarg?style=social)](https://github.com/atharvaXgarg)
 
